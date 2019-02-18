@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6444b5f7-ea33-4c69-9a21-4c92558f482e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ngb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="807" column="30" selection-start-line="807" selection-start-column="30" selection-end-line="807" selection-end-column="30" />
+              <folding>
+                <element signature="e#578#1065#0" />
+                <element signature="e#1134#1269#0" />
+                <element signature="e#1348#2005#0" />
+                <element signature="e#1380#1422#0" />
+                <element signature="e#1764#1852#0" />
+                <element signature="e#2083#2599#0" />
+                <element signature="e#2141#2318#0" />
+                <element signature="e#2382#2582#0" />
+                <element signature="e#2658#2806#0" />
+                <element signature="e#2877#3032#0" />
+                <element signature="e#2894#2993#0" />
+                <element signature="e#3084#3221#0" />
+                <element signature="e#3306#12925#0" />
+                <element signature="e#3491#5212#0" />
+                <element signature="e#3571#4527#0" />
+                <element signature="e#4643#5185#0" />
+                <element signature="e#5271#5541#0" />
+                <element signature="e#5350#5514#0" />
+                <element signature="e#5603#5727#0" />
+                <element signature="e#5763#5892#0" />
+                <element signature="e#5930#6629#0" />
+                <element signature="e#6010#6602#0" />
+                <element signature="e#6668#7035#0" />
+                <element signature="e#6749#7008#0" />
+                <element signature="e#7073#7288#0" />
+                <element signature="e#7153#7261#0" />
+                <element signature="e#7324#7795#0" />
+                <element signature="e#7402#7768#0" />
+                <element signature="e#7837#8209#0" />
+                <element signature="e#7921#8182#0" />
+                <element signature="e#8251#8467#0" />
+                <element signature="e#8335#8440#0" />
+                <element signature="e#8505#9052#0" />
+                <element signature="e#8585#9025#0" />
+                <element signature="e#9090#9487#0" />
+                <element signature="e#9170#9460#0" />
+                <element signature="e#9525#9781#0" />
+                <element signature="e#9605#9754#0" />
+                <element signature="e#9817#10226#0" />
+                <element signature="e#9895#10199#0" />
+                <element signature="e#10265#10777#0" />
+                <element signature="e#10346#10750#0" />
+                <element signature="e#10816#11294#0" />
+                <element signature="e#10897#11267#0" />
+                <element signature="e#11330#11611#0" />
+                <element signature="e#11408#11584#0" />
+                <element signature="e#11650#12026#0" />
+                <element signature="e#11731#11999#0" />
+                <element signature="e#12064#12363#0" />
+                <element signature="e#12144#12336#0" />
+                <element signature="e#12402#12616#0" />
+                <element signature="e#12483#12589#0" />
+                <element signature="e#12655#12869#0" />
+                <element signature="e#12736#12842#0" />
+                <element signature="e#13065#14563#0" />
+                <element signature="e#13335#14259#0" />
+                <element signature="e#13379#14259#0" />
+                <element signature="e#13485#13789#0" />
+                <element signature="e#13927#14197#0" />
+                <element signature="e#14302#14455#0" />
+                <element signature="e#14332#14455#0" />
+                <element signature="e#14638#16607#0" />
+                <element signature="e#15625#15776#0" />
+                <element signature="e#16680#19193#0" />
+                <element signature="e#17626#17777#0" />
+                <element signature="e#17947#18641#0" />
+                <element signature="e#18311#18550#0" />
+                <element signature="e#19280#20334#0" />
+                <element signature="e#19371#19619#0" />
+                <element signature="e#19422#19498#0" />
+                <element signature="e#19540#19619#0" />
+                <element signature="e#19685#19811#0" />
+                <element signature="e#19842#19945#0" />
+                <element signature="e#20032#20136#0" />
+                <element signature="e#20187#20287#0" />
+                <element signature="e#20423#21187#0" />
+                <element signature="e#20651#20786#0" />
+                <element signature="e#21302#22874#0" />
+                <element signature="e#22247#22398#0" />
+                <element signature="e#22980#24282#0" />
+                <element signature="e#23696#23847#0" />
+                <element signature="e#24414#25910#0" />
+                <element signature="e#25132#25283#0" />
+                <element signature="e#26009#27710#0" />
+                <element signature="e#26869#27020#0" />
+                <element signature="e#27855#29628#0" />
+                <element signature="e#28723#28874#0" />
+                <element signature="e#29774#31696#0" />
+                <element signature="e#30706#30857#0" />
+                <element signature="e#31829#33548#0" />
+                <element signature="e#32623#32774#0" />
+                <element signature="e#33672#35535#0" />
+                <element signature="e#34612#34763#0" />
+                <element signature="e#35648#37098#0" />
+                <element signature="e#36352#36503#0" />
+                <element signature="e#37224#38525#0" />
+                <element signature="e#37858#38009#0" />
+                <element signature="e#38634#40083#0" />
+                <element signature="e#39342#39493#0" />
+                <element signature="e#40175#42045#0" />
+                <element signature="e#40893#41044#0" />
+                <element signature="e#41262#41371#0" />
+                <element signature="e#41459#41803#0" />
+                <element signature="e#41504#41697#0" />
+                <element signature="e#42137#44535#0" />
+                <element signature="e#42703#42854#0" />
+                <element signature="e#43072#43183#0" />
+                <element signature="e#43271#44443#0" />
+                <element signature="e#43339#44349#0" />
+                <element signature="e#43385#44208#0" />
+                <element signature="e#43503#43648#0" />
+                <element signature="e#43726#43895#0" />
+                <element signature="e#43938#44208#0" />
+                <element signature="e#44634#44904#0" />
+                <element signature="e#44983#47739#0" />
+                <element signature="e#45271#47486#0" />
+                <element signature="e#45713#45790#0" />
+                <element signature="e#47872#48172#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mat_1</find>
+      <find>stash_name</find>
+      <find>forest</find>
+      <find>location_level</find>
+      <find>enemy_death</find>
+      <find>combat</find>
+      <find>in_combat</find>
+      <find>player_death</find>
+      <find>users[user.id][&quot;combat&quot;]</find>
+      <find>head_defense</find>
+      <find>you already</find>
+      <find>armour_def</find>
+      <find>pickaxe_durability</find>
+      <find>eq_quality_name</find>
+      <find>head_quality</find>
+      <find>craf</find>
+      <find>wooden</find>
+      <find>eq_quality_alias</find>
+      <find>eq_quality</find>
+      <find>attack</find>
+      <find>craft</find>
+      <find>rot</find>
+      <find># Skill Level</find>
+      <find>food_rot</find>
+      <find>user_attack_formula</find>
+      <find>wolfy</find>
+      <find>wolf</find>
+      <find>you don't have</find>
+      <find>eq_emo</find>
+      <find>escape</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>skilltree</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bot.py" />
+        <option value="$PROJECT_DIR$/venv/ngb.py" />
+        <option value="$PROJECT_DIR$/skills.json" />
+        <option value="$PROJECT_DIR$/talents.json" />
+        <option value="$PROJECT_DIR$/create_account.py" />
+        <option value="$PROJECT_DIR$/message_levels.py" />
+        <option value="$PROJECT_DIR$/../MainBot.py" />
+        <option value="$PROJECT_DIR$/../MyLib.py" />
+        <option value="$PROJECT_DIR$/inventory.py" />
+        <option value="$PROJECT_DIR$/resetting.py" />
+        <option value="$PROJECT_DIR$/documentation.txt" />
+        <option value="$PROJECT_DIR$/stash.json" />
+        <option value="$PROJECT_DIR$/stash.py" />
+        <option value="$PROJECT_DIR$/user_plot" />
+        <option value="$PROJECT_DIR$/battle.py" />
+        <option value="$PROJECT_DIR$/lumbering.py" />
+        <option value="$PROJECT_DIR$/mining.py" />
+        <option value="$PROJECT_DIR$/market.py" />
+        <option value="$PROJECT_DIR$/gathering.py" />
+        <option value="$PROJECT_DIR$/channels.json" />
+        <option value="$PROJECT_DIR$/allowed_channels.json" />
+        <option value="$PROJECT_DIR$/char_stash.py" />
+        <option value="$PROJECT_DIR$/user_plot.json" />
+        <option value="$PROJECT_DIR$/stash_base.json" />
+        <option value="$PROJECT_DIR$/skilltree.json" />
+        <option value="$PROJECT_DIR$/resources.json" />
+        <option value="$PROJECT_DIR$/battling.py" />
+        <option value="$PROJECT_DIR$/equipment.json" />
+        <option value="$PROJECT_DIR$/update_data.py" />
+        <option value="$PROJECT_DIR$/users.json" />
+        <option value="$PROJECT_DIR$/marketing.py" />
+        <option value="$PROJECT_DIR$/char_inventory.py" />
+        <option value="$PROJECT_DIR$/building_menu.py" />
+        <option value="$PROJECT_DIR$/icons.json" />
+        <option value="$PROJECT_DIR$/char_skilltree.py" />
+        <option value="$PROJECT_DIR$/crafting.py" />
+        <option value="$PROJECT_DIR$/eating.py" />
+        <option value="$PROJECT_DIR$/labouring.py" />
+        <option value="$PROJECT_DIR$/sleeping.py" />
+        <option value="$PROJECT_DIR$/traveling.py" />
+        <option value="$PROJECT_DIR$/using.py" />
+        <option value="$PROJECT_DIR$/ngb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="215" />
+    <option name="y" value="-13" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NSGB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NSGB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ngb">
+    <configuration name="battling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/battling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crafting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crafting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lumbering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lumbering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ngb" type="PythonConfigurationType" factoryName="Python">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ngb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="traveling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/traveling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="using" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NSGB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.battling" />
+        <item itemvalue="Python.traveling" />
+        <item itemvalue="Python.using" />
+        <item itemvalue="Python.crafting" />
+        <item itemvalue="Python.lumbering" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6444b5f7-ea33-4c69-9a21-4c92558f482e" name="Default Changelist" comment="" />
+      <created>1548455084835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548455084835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10115912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31310943" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10115912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/ngb.py" />
+    <entry file="file://$PROJECT_DIR$/bot.py" />
+    <entry file="file://$PROJECT_DIR$/skills.json" />
+    <entry file="file://$PROJECT_DIR$/talents.json" />
+    <entry file="file://$PROJECT_DIR$/message_levels.py" />
+    <entry file="file://$PROJECT_DIR$/../MainBot.py" />
+    <entry file="file://$PROJECT_DIR$/../MyLib.py" />
+    <entry file="file://$PROJECT_DIR$/../MyLib(1).py" />
+    <entry file="file://$PROJECT_DIR$/inventory.py" />
+    <entry file="file://$PROJECT_DIR$/resetting.py" />
+    <entry file="file://$PROJECT_DIR$/documentation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash.json" />
+    <entry file="file://$PROJECT_DIR$/stash.py" />
+    <entry file="file://$PROJECT_DIR$/user_plot" />
+    <entry file="file://$PROJECT_DIR$/battle.py" />
+    <entry file="file://$PROJECT_DIR$/create_account.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/discord/ext/commands/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="845" selection-start-line="845" selection-end-line="845" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining.py" />
+    <entry file="file://$PROJECT_DIR$/lumbering.py" />
+    <entry file="file://$PROJECT_DIR$/gathering.py" />
+    <entry file="file://$PROJECT_DIR$/channels.json" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1370607445/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="803" column="8" selection-start-line="803" selection-start-column="8" selection-end-line="803" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market.py" />
+    <entry file="file://$PROJECT_DIR$/user_plot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash_base.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allowed_channels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skilltree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="962" lean-forward="true" selection-start-column="962" selection-end-column="962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1591" selection-start-column="1586" selection-end-column="1591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="937" selection-start-column="937" selection-end-column="937" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/battling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1658">
+          <caret line="156" column="95" lean-forward="true" selection-start-line="156" selection-start-column="54" selection-end-line="156" selection-end-column="95" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="34" column="91" lean-forward="true" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/char_skilltree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/char_stash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crafting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="555" column="81" selection-start-line="555" selection-start-column="81" selection-end-line="555" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/char_inventory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="103" column="25" lean-forward="true" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labouring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="230" column="57" selection-start-line="230" selection-start-column="57" selection-end-line="230" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="83" column="52" lean-forward="true" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleeping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1249">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traveling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1793">
+          <caret line="111" column="24" lean-forward="true" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/using.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="524" column="85" selection-start-line="524" selection-start-column="85" selection-end-line="524" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="807" column="30" selection-start-line="807" selection-start-column="30" selection-end-line="807" selection-end-column="30" />
+          <folding>
+            <element signature="e#578#1065#0" />
+            <element signature="e#1134#1269#0" />
+            <element signature="e#1348#2005#0" />
+            <element signature="e#1380#1422#0" />
+            <element signature="e#1764#1852#0" />
+            <element signature="e#2083#2599#0" />
+            <element signature="e#2141#2318#0" />
+            <element signature="e#2382#2582#0" />
+            <element signature="e#2658#2806#0" />
+            <element signature="e#2877#3032#0" />
+            <element signature="e#2894#2993#0" />
+            <element signature="e#3084#3221#0" />
+            <element signature="e#3306#12925#0" />
+            <element signature="e#3491#5212#0" />
+            <element signature="e#3571#4527#0" />
+            <element signature="e#4643#5185#0" />
+            <element signature="e#5271#5541#0" />
+            <element signature="e#5350#5514#0" />
+            <element signature="e#5603#5727#0" />
+            <element signature="e#5763#5892#0" />
+            <element signature="e#5930#6629#0" />
+            <element signature="e#6010#6602#0" />
+            <element signature="e#6668#7035#0" />
+            <element signature="e#6749#7008#0" />
+            <element signature="e#7073#7288#0" />
+            <element signature="e#7153#7261#0" />
+            <element signature="e#7324#7795#0" />
+            <element signature="e#7402#7768#0" />
+            <element signature="e#7837#8209#0" />
+            <element signature="e#7921#8182#0" />
+            <element signature="e#8251#8467#0" />
+            <element signature="e#8335#8440#0" />
+            <element signature="e#8505#9052#0" />
+            <element signature="e#8585#9025#0" />
+            <element signature="e#9090#9487#0" />
+            <element signature="e#9170#9460#0" />
+            <element signature="e#9525#9781#0" />
+            <element signature="e#9605#9754#0" />
+            <element signature="e#9817#10226#0" />
+            <element signature="e#9895#10199#0" />
+            <element signature="e#10265#10777#0" />
+            <element signature="e#10346#10750#0" />
+            <element signature="e#10816#11294#0" />
+            <element signature="e#10897#11267#0" />
+            <element signature="e#11330#11611#0" />
+            <element signature="e#11408#11584#0" />
+            <element signature="e#11650#12026#0" />
+            <element signature="e#11731#11999#0" />
+            <element signature="e#12064#12363#0" />
+            <element signature="e#12144#12336#0" />
+            <element signature="e#12402#12616#0" />
+            <element signature="e#12483#12589#0" />
+            <element signature="e#12655#12869#0" />
+            <element signature="e#12736#12842#0" />
+            <element signature="e#13065#14563#0" />
+            <element signature="e#13335#14259#0" />
+            <element signature="e#13379#14259#0" />
+            <element signature="e#13485#13789#0" />
+            <element signature="e#13927#14197#0" />
+            <element signature="e#14302#14455#0" />
+            <element signature="e#14332#14455#0" />
+            <element signature="e#14638#16607#0" />
+            <element signature="e#15625#15776#0" />
+            <element signature="e#16680#19193#0" />
+            <element signature="e#17626#17777#0" />
+            <element signature="e#17947#18641#0" />
+            <element signature="e#18311#18550#0" />
+            <element signature="e#19280#20334#0" />
+            <element signature="e#19371#19619#0" />
+            <element signature="e#19422#19498#0" />
+            <element signature="e#19540#19619#0" />
+            <element signature="e#19685#19811#0" />
+            <element signature="e#19842#19945#0" />
+            <element signature="e#20032#20136#0" />
+            <element signature="e#20187#20287#0" />
+            <element signature="e#20423#21187#0" />
+            <element signature="e#20651#20786#0" />
+            <element signature="e#21302#22874#0" />
+            <element signature="e#22247#22398#0" />
+            <element signature="e#22980#24282#0" />
+            <element signature="e#23696#23847#0" />
+            <element signature="e#24414#25910#0" />
+            <element signature="e#25132#25283#0" />
+            <element signature="e#26009#27710#0" />
+            <element signature="e#26869#27020#0" />
+            <element signature="e#27855#29628#0" />
+            <element signature="e#28723#28874#0" />
+            <element signature="e#29774#31696#0" />
+            <element signature="e#30706#30857#0" />
+            <element signature="e#31829#33548#0" />
+            <element signature="e#32623#32774#0" />
+            <element signature="e#33672#35535#0" />
+            <element signature="e#34612#34763#0" />
+            <element signature="e#35648#37098#0" />
+            <element signature="e#36352#36503#0" />
+            <element signature="e#37224#38525#0" />
+            <element signature="e#37858#38009#0" />
+            <element signature="e#38634#40083#0" />
+            <element signature="e#39342#39493#0" />
+            <element signature="e#40175#42045#0" />
+            <element signature="e#40893#41044#0" />
+            <element signature="e#41262#41371#0" />
+            <element signature="e#41459#41803#0" />
+            <element signature="e#41504#41697#0" />
+            <element signature="e#42137#44535#0" />
+            <element signature="e#42703#42854#0" />
+            <element signature="e#43072#43183#0" />
+            <element signature="e#43271#44443#0" />
+            <element signature="e#43339#44349#0" />
+            <element signature="e#43385#44208#0" />
+            <element signature="e#43503#43648#0" />
+            <element signature="e#43726#43895#0" />
+            <element signature="e#43938#44208#0" />
+            <element signature="e#44634#44904#0" />
+            <element signature="e#44983#47739#0" />
+            <element signature="e#45271#47486#0" />
+            <element signature="e#45713#45790#0" />
+            <element signature="e#47872#48172#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
