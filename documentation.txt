@@ -1,0 +1,32 @@
+To Do:
+- Timestamp for embeds in footer
+- Market & Trading
+- prevent spam (atm low exp to do that)
+- Combat System
+- Dungeons
+- Adapt maxStamina hp and travelpower as you level
+- crafting menu for weapons and armour
+- equipment influence for gathering
+- level up increases stats
+- stash at home base
+- looses stuff on death
+- craft armour and eliminate damage
+mana
+
+- reset data
+
+- Research
+- Need for a house to build workbenches etc
+
+
+MAPS: => Home Screen
+Home (Base Location)
+
+Locations.
+- Home (.baseinfo)
+- Market (.market) (trader skill => gives more money, reduces prices)
+- Mine (.mine) (mining => increases yield)
+- Forest (.lumber) (lumbering => increases yield)
+- Dungeon (.dungeon) => progressive new dungeon+
+
+House (tiered)
